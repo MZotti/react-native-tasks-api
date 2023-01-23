@@ -10,4 +10,4 @@ Then:
 
 ### `npm start`
 
-The default url is: [http://localhost:300](http://localhost:300)
+The default url is: [http://localhost:3000](http://localhost:3000)
