@@ -11,3 +11,7 @@ Then:
 ### `npm start`
 
 The default url is: [http://localhost:3000](http://localhost:3000)
+
+Run the migrations with:
+
+### `knex migrate:latest`
